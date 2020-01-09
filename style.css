@@ -1,0 +1,35 @@
+body{
+
+    background-image: url('https://image.shutterstock.com/image-vector/seamless-pattern-star-dark-sky-260nw-551688709.jpg');
+}
+h1 {
+    color: blue;
+
+    
+}
+strong {
+    color: red;
+
+}
+#cool-square {
+height:250px;
+width: 250px;
+background: red;
+border-radius: 15 px;
+border: dotted lightgreen 5px;
+padding:10px;
+margin:10ps;
+
+
+}
+#uncool-square {
+    height:250px;
+    width: 250px;
+    background: lightcoral;
+    border-radius: 15 px;
+    border: dotted lightgreen 5px;
+    padding:10px;
+    margin: 10px;
+
+    
+    }
